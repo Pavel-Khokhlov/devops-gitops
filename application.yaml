@@ -24,7 +24,7 @@ spec:
       valueFiles:
         - values.yaml
         - values-production.yaml
-        - values-secrets.yaml
+        - secrets.yaml
   project: default
   syncPolicy:
     automated:
