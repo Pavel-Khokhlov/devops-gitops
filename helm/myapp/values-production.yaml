@@ -6,7 +6,7 @@
 # /health отдаёт APP_VERSION = backend.image.tag — агент сверяет его с sha коммита week7.
 backend:
   image:
-    tag: "latest"
+    tag: "sha-71c726f0538e4c43f8e1f6775e8a8daa4d57a88e"
 frontend:
   image:
-    tag: "latest"
+    tag: "sha-71c726f0538e4c43f8e1f6775e8a8daa4d57a88e"
