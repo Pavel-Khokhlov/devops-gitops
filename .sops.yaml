@@ -5,4 +5,4 @@
 # (строка вида age1...). Приватный ключ (age-key.txt) НИКОГДА не коммить.
 creation_rules:
   - path_regex: helm/.*/secrets.*\.yaml$
-    age: age1su8ukc9xm5ffg4trtcsmtw08spr2dxwafkf6zn3znpjwnejkn5tq0a93ha
+    age: age12d3npz4tvr9tl8d90dqzaqudqdneegk9gyxv4e8rtleu2g74ld6q3spxdy
